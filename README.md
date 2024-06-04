@@ -1,3 +1,13 @@
+<p align="center">
+  <img align="center" src="https://i.ibb.co/FnzDJZY/computalk.gif">
+  <h5 align="center">Welcome to My GitHub</h5>
+  <h6 align="center">have fun & try not to break anything</h6>
+</p>
+
+
+###
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arghyabag&label=Profile%20views&color=0e75b6&style=flat" alt="arghyabag" /> </p>
+
 <h2 align="left">Hi 👋! My name is Arghya and I'm a developer</h2>
 
 ###
